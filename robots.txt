@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oviroofu.github.io/DPT/sitemap_index.txt
+Sitemap: https://oviroofu.github.io/DpL/sitemap_index.txt
+Sitemap: https://oviroofu.github.io/bHN/sitemap_index.txt
+Sitemap: https://oviroofu.github.io/xIE/sitemap_index.txt
